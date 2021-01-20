@@ -1,0 +1,2 @@
+- ptstgsolver: solves for the properties (temperatures, efficiencies, etc) of a turbine given an inlet temperature/pressure and an outlet pressure.
+- ptstgopti: given a range of pressures, we display in an excel doc the efficiencies for a given pressure (maximum) and all pertinent values in the last simulation for that given pressure.

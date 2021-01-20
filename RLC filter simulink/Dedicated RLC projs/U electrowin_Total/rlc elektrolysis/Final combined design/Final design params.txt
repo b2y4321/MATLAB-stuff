@@ -1,0 +1,19 @@
+Initial RC filter
+C=4700uF
+R=0.01 ohm
+
+Prerectifier
+R=1.92e-3
+L=20mH
+
+High filter (after 0.8V rectification)
+R=2.2e-6 ohm
+C=400F
+
+Med filter (after 0.45V rectification)
+R=1.24e-6 ohm
+C=400F
+
+Low filter (after 0.25V rectification)
+R=6.94e-7
+C=400F

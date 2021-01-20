@@ -1,0 +1,1 @@
+- Basically, given angles 2Theta we can find the A and the h^2+k^2+L^2

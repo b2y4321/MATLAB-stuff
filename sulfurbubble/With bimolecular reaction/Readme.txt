@@ -1,0 +1,1 @@
+This matlab script solves forthe concentration profile of gas A assuming scrubber agent B doesn't have a constant concentration. It solves, at a given time point, the conc profiles of A and B together. 

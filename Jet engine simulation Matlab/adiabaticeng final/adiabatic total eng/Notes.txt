@@ -1,0 +1,2 @@
+- ad_totalsolve: Given inlet, discharge amd max Pressure, and Stoich ratio, solves for one scenario. (These specifically solve for mole numbers of air, etc required for 1 mole of fuel burned).
+- ad_PRsolve and ad_SRsolve; plot multiple scenarios vs. pressure ratio (PR) and stoich ratio (SR). Also plots velocity required, at a give npressure, to send n moles of air through a throat of area A given n moles of fuel needed.

@@ -1,0 +1,2 @@
+- This system is designed to solve for the heat duty of a fin under free convection given the inlet temperature and surface temperature.
+- It doesn't work that well (see FreeConvFinal)

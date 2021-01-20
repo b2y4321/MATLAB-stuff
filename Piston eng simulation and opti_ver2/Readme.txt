@@ -1,0 +1,2 @@
+- stgsolve is the solver for all of the piston stages.
+- stgsolve2 doesn't work

@@ -1,0 +1,1 @@
+- Sodium turbine is very inefficient at even high inlet temperatures (like T of 1700k). But is very energy dense (17100W at 1.5mol/s) and cooling duty is high enough to power a combined cycle process.

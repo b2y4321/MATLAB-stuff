@@ -1,0 +1,2 @@
+- ccyclesolve solves for everything given an inlet temperature, outlet temperature and outlet pressure assuming we adiabatically expand water to a saturated vapor at some temperature.
+- ccycle assumes water to be ideal at the outlet pressure, where ccycleimpr does not assume so. We use ccycleimpr in ccyclesolve

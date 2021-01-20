@@ -1,0 +1,4 @@
+The minimum stoichiometric ratio required for combustion is 0.32
+The maximum ratio permissible is 2.3
+
+- However, I wouldn't see why one would ever use a stoichiometric ratio lower than 1, as the soot formation would quickly destroy the engine turbines. Even a stoichiometric ratio of 1, practically, is pushing this limit.
